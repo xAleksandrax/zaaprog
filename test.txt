@@ -1,1 +1,4 @@
 Zmiana w test
+=======
+Zmiana w test_2
+>>>>>>> test_2
